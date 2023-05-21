@@ -1,0 +1,1 @@
+This project was created to advertise discounts on watermelons
